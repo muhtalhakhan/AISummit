@@ -2,8 +2,6 @@
 
 # Link
 
-Repo: https://github.com/mustafaali96/AISummit21
-
 Scrapper Cron: https://wayscript.com/
 
 mongodb: https://cloud.mongodb.com/
